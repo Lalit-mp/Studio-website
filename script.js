@@ -5,9 +5,6 @@ const contactPageCtn = document.querySelector(".contact");
 
 profilePageCtn.classList.add("hide");
 contactPageCtn.classList.add("hide");
-console.log(homePageCtn);
-console.log(profilePageCtn);
-console.log(contactPageCtn);
 
 allButton.addEventListener("click", (e) => {
   console.log(e.target.textContent);
