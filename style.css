@@ -348,9 +348,6 @@ footer{
 .hide {
     display: none;
 }
-/* .show{
-    display: block;
-} */
 .button-bg{
     background-color: var(--white);
     transition: 0.3s ease-in;
